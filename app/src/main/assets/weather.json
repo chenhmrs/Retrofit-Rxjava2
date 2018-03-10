@@ -1,0 +1,62 @@
+{
+  "resultWeather": {
+    "desc": "OK",
+    "status": 1000,
+    "data": {
+      "wendu": "15",
+      "ganmao": "昼夜温差很大，易发生感冒，请注意适当增减衣服，加强自我防护避免感冒。",
+      "forecast": [
+        {
+          "fengxiang": "南风",
+          "fengli": "微风级",
+          "high": "高温 16℃",
+          "type": "晴",
+          "low": "低温 2℃",
+          "date": "14日星期二"
+        },
+        {
+          "fengxiang": "南风",
+          "fengli": "微风级",
+          "high": "高温 16℃",
+          "type": "多云",
+          "low": "低温 4℃",
+          "date": "15日星期三"
+        },
+        {
+          "fengxiang": "南风",
+          "fengli": "微风级",
+          "high": "高温 17℃",
+          "type": "多云",
+          "low": "低温 7℃",
+          "date": "16日星期四"
+        },
+        {
+          "fengxiang": "南风",
+          "fengli": "微风级",
+          "high": "高温 16℃",
+          "type": "阴",
+          "low": "低温 5℃",
+          "date": "17日星期五"
+        },
+        {
+          "fengxiang": "南风",
+          "fengli": "微风级",
+          "high": "高温 19℃",
+          "type": "晴",
+          "low": "低温 5℃",
+          "date": "18日星期六"
+        }
+      ],
+      "yesterday": {
+        "fl": "微风",
+        "fx": "南风",
+        "high": "高温 14℃",
+        "type": "晴",
+        "low": "低温 2℃",
+        "date": "13日星期一"
+      },
+      "aqi": "38",
+      "city": "北京"
+    }
+  }
+}
